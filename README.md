@@ -6,3 +6,5 @@ git clone https://github.com/tutsplus/envato-course-writer.git
 
 Once cloned, unzip the appropriate file and use it. If you have an issue, add an issue to the [Issues Link](https://github.com/tutsplus/envato-course-writer/issues).
 
+Installation instrunctions can be found here: [http://customct.com/EnvatoCourseWriter/help/program-installation.html](http://customct.com/EnvatoCourseWriter/help/program-installation.html)
+
